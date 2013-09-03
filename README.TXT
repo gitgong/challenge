@@ -26,3 +26,7 @@ WordCount - uses a map to store word count frequency, obtains word list from fil
 
 LostRover
 RoverController - based upon text string input, models a navigational controller for a mars rover, which knows its own location and direction on a simple grid.
+
+
+ParticleChamber
+Two programs show different strategies for caching move history in a model particle chamber. see particle_readme for further information. illustrates caching strategy's impact on performance.
