@@ -41,7 +41,8 @@ BigData
 This program loads data from database tables and finds matches between the two tables data. Requires setup/load of mysql database to demo. See project readme for more details.
 
 
-
+MailClient
+This program shows a simple implementation / usage of Javamail API circa 2001. Requires Javamail support libraries. See readme for details.
 
 
 
