@@ -3,7 +3,7 @@ Code Challenge Readme file
 Author: Blake Rogers
 
 
-This repository contains Java code and accompanying resources for solutions to some of my job interview "code challenges". Code challenges are provided by companies as part of their candidate screening process. No correctness of technique or methodology is implied by these examples. Solutions may contain code fragments obtained from the internet, api guides, etc. 
+This repository contains self-promotional portfolio content, mainly Java code and accompanying resources for solutions to some of my job interview "code challenges". Code challenges are provided by companies as part of their candidate screening process. No correctness of technique or methodology is implied by these examples. Solutions may contain code fragments copied/reused from the internet, api guides, eg "googled". Feel free to reuse any part of this code. 
 
 
 
