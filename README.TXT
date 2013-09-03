@@ -1,8 +1,9 @@
 
 Code Challenge Readme file
+Author: Blake Rogers
 
 
-This repository contains Java code and accompanying resources for some of my job interview "code challenges". Code challenges are provided by companies as part of their candidate screening process.  
+This repository contains Java code and accompanying resources for solutions to some of my job interview "code challenges". Code challenges are provided by companies as part of their candidate screening process. No correctness of technique or methodology is implied by these examples. Solutions may contain code fragments obtained from the internet, api guides, etc. 
 
 
 
@@ -30,3 +31,7 @@ RoverController - based upon text string input, models a navigational controller
 
 ParticleChamber
 Two programs show different strategies for caching move history in a model particle chamber. see particle_readme for further information. illustrates caching strategy's impact on performance.
+
+
+TCPMsgServer
+Consists of a Server which is tested by the Clients sending it messages. See the project readme for more information.
