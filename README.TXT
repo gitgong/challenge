@@ -23,3 +23,6 @@ ReverseString - shows two methods for reversing a string, one which uses a stack
 
 WordCount - uses a map to store word count frequency, obtains word list from file in classpath
 
+
+LostRover
+RoverController - based upon text string input, models a navigational controller for a mars rover, which knows its own location and direction on a simple grid.
