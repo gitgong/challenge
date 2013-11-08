@@ -6,6 +6,12 @@ Author: Blake Rogers
 This repository contains self-promotional portfolio content, mainly Java code and accompanying resources for solutions to some of my job interview "code challenges". Code challenges are provided by companies as part of their candidate screening process. No correctness of technique or methodology is implied by these examples. Solutions may contain code fragments copied/reused from the internet, api guides, eg "googled". Feel free to reuse any part of this code. 
 
 
+Algorithms
+----------
+
+An algorithm to find the closest pairs in a number list. Performance improved by half from N^2 to (N^2)/2.
+
+
 
 StringManipulation
 -------------------
@@ -43,6 +49,7 @@ This program loads data from database tables and finds matches between the two t
 
 MailClient
 This program shows a simple implementation / usage of Javamail API circa 2001. Requires Javamail support libraries. See readme for details.
+
 
 
 
