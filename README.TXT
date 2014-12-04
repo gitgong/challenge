@@ -1,16 +1,38 @@
-
-Code Challenge Readme file
+Challenge Code Readme file
 Author: Blake Rogers
 
 
-This repository contains self-promotional portfolio content, mainly Java code and accompanying resources for solutions to some of my job interview "code challenges". Code challenges are provided by companies as part of their candidate screening process. No correctness of technique or methodology is implied by these examples. Solutions may contain code fragments copied/reused from the internet, api guides, eg "googled". Feel free to reuse any part of this code. 
+This repository contains mostly Java code solutions for interesting programming challenges, code snippets and samples such as API usage. Feel free to reuse any part of this code. 
 
 
 Algorithms
 ----------
-
 An algorithm to find the closest pairs in a number list. Performance improved by half from N^2 to (N^2)/2.
 
+
+LostRover
+----------
+RoverController - based upon text string input, models a navigational controller for a mars rover, which knows its own location and direction on a simple grid.
+
+
+ParticleChamber
+----------
+Two programs show different strategies for caching move history in a model particle chamber. see particle_readme for further information. illustrates caching strategy's impact on performance.
+
+
+TCPMsgServer
+----------
+Consists of a Server which is tested by the Clients sending it messages. See the project readme for more information.
+
+
+MailClient
+----------
+This program shows a simple implementation / usage of Javamail API circa 2001. Requires Javamail support libraries. See readme for details.
+
+
+Complexity
+----------
+The bit encoding is generated in the binary trees, and map structures store the codes and are used in the decoding. I also calculate the information content, and the program outputs analytics.
 
 
 StringManipulation
@@ -29,28 +51,6 @@ StringDuplicates - two methods for determining whether or not a given sentence c
 ReverseString - shows two methods for reversing a string, one which uses a stack and the other a reversed loop. I show two variations of the reverse looping, one in which no extra char array object is created.
 
 WordCount - uses a map to store word count frequency, obtains word list from file in classpath
-
-
-LostRover
-RoverController - based upon text string input, models a navigational controller for a mars rover, which knows its own location and direction on a simple grid.
-
-
-ParticleChamber
-Two programs show different strategies for caching move history in a model particle chamber. see particle_readme for further information. illustrates caching strategy's impact on performance.
-
-
-TCPMsgServer
-Consists of a Server which is tested by the Clients sending it messages. See the project readme for more information.
-
-
-BigData
-This program loads data from database tables and finds matches between the two tables data. Requires setup/load of mysql database to demo. See project readme for more details.
-
-
-MailClient
-This program shows a simple implementation / usage of Javamail API circa 2001. Requires Javamail support libraries. See readme for details.
-
-
 
 
 
