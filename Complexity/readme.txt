@@ -12,4 +12,4 @@ http://en.wikipedia.org/wiki/Entropy_(information_theory)
 http://en.wikipedia.org/wiki/Huffman_coding
 https://www.cs.duke.edu/csed/poop/huff/info/
 http://rosettacode.org/wiki/Huffman_coding#Java
-complexityexplorer.org
+http://www.complexityexplorer.org
