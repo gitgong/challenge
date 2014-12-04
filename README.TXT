@@ -2,7 +2,22 @@ Challenge Code Readme file
 Author: Blake Rogers
 
 
-This repository contains mostly Java code solutions for interesting programming challenges, code snippets and samples such as API usage. Feel free to reuse any part of this code. 
+This repository contains mostly Java code solutions for interesting programming challenges, code snippets and samples. Feel free to reuse any part of this code. 
+
+
+Complexity
+----------
+The bit encoding is generated in the binary trees, and map structures store the codes and are used in the decoding. I also calculate the information content, and the program outputs analytics.
+
+
+ParticleChamber
+----------
+Two programs show different strategies for caching move history in a model particle chamber. See particle_readme for further information. illustrates caching strategy's impact on performance.
+
+
+TCPMsgServer
+----------
+Consists of a Server which is tested by the Clients sending it messages. See the project readme for more information.
 
 
 Algorithms
@@ -14,25 +29,6 @@ LostRover
 ----------
 RoverController - based upon text string input, models a navigational controller for a mars rover, which knows its own location and direction on a simple grid.
 
-
-ParticleChamber
-----------
-Two programs show different strategies for caching move history in a model particle chamber. see particle_readme for further information. illustrates caching strategy's impact on performance.
-
-
-TCPMsgServer
-----------
-Consists of a Server which is tested by the Clients sending it messages. See the project readme for more information.
-
-
-MailClient
-----------
-This program shows a simple implementation / usage of Javamail API circa 2001. Requires Javamail support libraries. See readme for details.
-
-
-Complexity
-----------
-The bit encoding is generated in the binary trees, and map structures store the codes and are used in the decoding. I also calculate the information content, and the program outputs analytics.
 
 
 StringManipulation
